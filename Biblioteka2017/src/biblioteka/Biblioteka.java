@@ -42,6 +42,7 @@ public class Biblioteka implements BibliotekaInterfejs {
 				rezultat.add(knjige.get(i));
 			}
 		}
+		//javan komentar
 		return rezultat;
 	}
 
